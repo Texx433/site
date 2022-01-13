@@ -1,5 +1,5 @@
 body{
-background: black;
+background-image: url(teste.gif);
 }
 
 h1{
@@ -7,6 +7,14 @@ color: white;
 font-size: 70px;
 pedding: 10px;
 font-family: 'Roboto', sans-serif;
+}
+
+.bom{
+color: white;
+font-size: 70px;
+pedding: 10px;
+font-family: 'Roboto', sans-serif;
+margin-left: 40%;
 }
 
 h2{
@@ -20,11 +28,6 @@ list-style: none;
 
 header nav ul li{
 margin-top: 30px;
-}
-
-.link{
-width: 920px;
-margin: auto;
 }
 
 .text{
@@ -42,4 +45,35 @@ font-size: 37px;
 h4{
 color: gray;
 font-size: 12;
+}
+
+.con nav ul li{
+margin-top: 80px;
+}
+
+.con nav ul li a{
+text-decoration: none;
+color: black;
+font-family: 'Roboto', sans-serif;
+font-size: 60px;
+}
+
+.daw{
+color: blue;
+margin-top: 70px;
+}
+
+.com nav ul li{
+margin-top: 30px;
+}
+
+.com nav ul li a{
+text-decoration: none;
+font-family: 'Roboto', sans-serif;
+color: cyan;
+font-size: 37;
+}
+
+.nom{
+background-image: url(foto2.gif);
 }
